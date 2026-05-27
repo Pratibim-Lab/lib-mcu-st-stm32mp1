@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32MP1/STM32MP133FAEx:STM32MP133FAEx",
+  "name": "STM32MP133FAEx",
+  "library": "MCU_ST_STM32MP1",
+  "file": "MCU_ST_STM32MP1.kicad_symdir/STM32MP133FAEx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-A7 MCU, 0KB flash, 168KB RAM, 136 GPIO, LFBGA289",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32mp133f.pdf",
+  "keywords": "Arm Cortex-A7 STM32MP1 STM32MP133",
+  "footprint": "Package_BGA:LFBGA-289_14x14mm_Layout17x17_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32mp1@master/parts/STM32MP133FAEx/",
+  "part_path": "parts/STM32MP133FAEx",
+  "symbol_file": "parts/STM32MP133FAEx/STM32MP133FAEx.kicad_sym",
+  "source_library": "MCU_ST_STM32MP1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:21.864Z"
+}

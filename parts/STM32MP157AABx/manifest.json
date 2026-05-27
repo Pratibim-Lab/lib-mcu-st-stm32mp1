@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32MP1/STM32MP157AABx:STM32MP157AABx",
+  "name": "STM32MP157AABx",
+  "library": "MCU_ST_STM32MP1",
+  "file": "MCU_ST_STM32MP1.kicad_symdir/STM32MP157AABx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-A7 MCU, 0KB flash, 708KB RAM, 98 GPIO, LFBGA354",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32mp157a.pdf",
+  "keywords": "Arm Cortex-A7 STM32MP1 STM32MP157",
+  "footprint": "Package_BGA:ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32mp1@master/parts/STM32MP157AABx/",
+  "part_path": "parts/STM32MP157AABx",
+  "symbol_file": "parts/STM32MP157AABx/STM32MP157AABx.kicad_sym",
+  "source_library": "MCU_ST_STM32MP1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:22.171Z"
+}

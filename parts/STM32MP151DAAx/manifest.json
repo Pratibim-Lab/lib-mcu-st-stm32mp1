@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32MP1/STM32MP151DAAx:STM32MP151DAAx",
+  "name": "STM32MP151DAAx",
+  "library": "MCU_ST_STM32MP1",
+  "file": "MCU_ST_STM32MP1.kicad_symdir/STM32MP151DAAx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-A7 MCU, 0KB flash, 708KB RAM, 176 GPIO, LFBGA448",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32mp151d.pdf",
+  "keywords": "Arm Cortex-A7 STM32MP1 STM32MP151",
+  "footprint": "Package_BGA:ST_LFBGA-448_18x18mm_Layout22x22_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32mp1@master/parts/STM32MP151DAAx/",
+  "part_path": "parts/STM32MP151DAAx",
+  "symbol_file": "parts/STM32MP151DAAx/STM32MP151DAAx.kicad_sym",
+  "source_library": "MCU_ST_STM32MP1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:22.010Z"
+}
